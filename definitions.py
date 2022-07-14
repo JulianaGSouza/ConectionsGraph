@@ -1,0 +1,1 @@
+readable_files = {"c":"#ff0000","cpp":"#ff0000","h":"#00ff00"}
